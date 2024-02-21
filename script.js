@@ -55,6 +55,6 @@ form.addEventListener("submit", function (event) {
   console.log("Middle Name:", middleName);
   console.log("Last Name:", lastName);
   console.log("Email:", email);
-  console.log("Pincode", pincode);
-  console.log("City", city);
+  console.log("Pincode:", pincode);
+  console.log("City:", city);
 });
